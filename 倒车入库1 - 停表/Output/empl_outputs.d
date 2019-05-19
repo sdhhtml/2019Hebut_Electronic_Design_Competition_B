@@ -1,0 +1,14 @@
+..\..\output\empl_outputs.o: ..\..\DMP\eMPL-hal\eMPL_outputs.c
+..\..\output\empl_outputs.o: ..\..\DMP\eMPL-hal\eMPL_outputs.h
+..\..\output\empl_outputs.o: ..\..\DMP\driver\include\mltypes.h
+..\..\output\empl_outputs.o: ..\..\DMP\driver\include\stdint_invensense.h
+..\..\output\empl_outputs.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\empl_outputs.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\empl_outputs.o: D:\keil5\ARM\ARMCC\Bin\..\include\errno.h
+..\..\output\empl_outputs.o: D:\keil5\ARM\ARMCC\Bin\..\include\limits.h
+..\..\output\empl_outputs.o: ..\..\DMP\mllite\ml_math_func.h
+..\..\output\empl_outputs.o: ..\..\DMP\driver\include\mlmath.h
+..\..\output\empl_outputs.o: D:\keil5\ARM\ARMCC\Bin\..\include\math.h
+..\..\output\empl_outputs.o: ..\..\DMP\mllite\start_manager.h
+..\..\output\empl_outputs.o: ..\..\DMP\mllite\data_builder.h
+..\..\output\empl_outputs.o: ..\..\DMP\mllite\results_holder.h

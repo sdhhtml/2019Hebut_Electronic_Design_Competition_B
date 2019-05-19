@@ -1,0 +1,14 @@
+..\..\output\storage_manager.o: ..\..\DMP\mllite\storage_manager.c
+..\..\output\storage_manager.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\..\output\storage_manager.o: ..\..\DMP\mllite\storage_manager.h
+..\..\output\storage_manager.o: ..\..\DMP\driver\include\mltypes.h
+..\..\output\storage_manager.o: ..\..\DMP\driver\include\stdint_invensense.h
+..\..\output\storage_manager.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\storage_manager.o: D:\keil5\ARM\ARMCC\Bin\..\include\errno.h
+..\..\output\storage_manager.o: D:\keil5\ARM\ARMCC\Bin\..\include\limits.h
+..\..\output\storage_manager.o: ..\..\DMP\driver\include\log.h
+..\..\output\storage_manager.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\storage_manager.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\..\output\storage_manager.o: ..\..\DMP\mllite\ml_math_func.h
+..\..\output\storage_manager.o: ..\..\DMP\driver\include\mlmath.h
+..\..\output\storage_manager.o: D:\keil5\ARM\ARMCC\Bin\..\include\math.h
